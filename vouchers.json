@@ -3,17 +3,17 @@
         {
             "month":"11",
             "year":"23",
-            "image":"images/11-23.jpg"
+            "image":"https://raw.githubusercontent.com/JackMarsia/SallySweetsVouchers/main/images/11-23.jpg"
         },
         {
             "month":"12",
             "year":"23",
-            "image":"images/12-23.jpg"
+            "image":"https://raw.githubusercontent.com/JackMarsia/SallySweetsVouchers/main/images/12-23.jpg"
         },
         {
             "month":"01",
             "year":"24",
-            "image":"images/01-24.jpg"
+            "image":"https://raw.githubusercontent.com/JackMarsia/SallySweetsVouchers/main/images/01-24.jpg"
         }
     ]
 }
