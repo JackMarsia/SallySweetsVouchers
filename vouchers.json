@@ -1,19 +1,24 @@
 {
     "vouchers": [
         {
-            "month":"11",
-            "year":"23",
+            "date":"11-2023",
             "image":"https://raw.githubusercontent.com/JackMarsia/SallySweetsVouchers/main/images/11-23.jpg"
         },
         {
-            "month":"12",
-            "year":"23",
+            "date":"12-2023",
             "image":"https://raw.githubusercontent.com/JackMarsia/SallySweetsVouchers/main/images/12-23.jpg"
         },
         {
-            "month":"01",
-            "year":"24",
+            "date":"01-2024",
             "image":"https://raw.githubusercontent.com/JackMarsia/SallySweetsVouchers/main/images/01-24.jpg"
+        },
+        {
+            "date":"02-2024",
+            "image":"https://raw.githubusercontent.com/JackMarsia/SallySweetsVouchers/main/images/02-24.jpg"
+        },
+        {
+            "date":"03-2024",
+            "image":"https://raw.githubusercontent.com/JackMarsia/SallySweetsVouchers/main/images/03-24.jpg"
         }
     ]
 }
