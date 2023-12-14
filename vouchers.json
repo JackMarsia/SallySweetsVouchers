@@ -2,22 +2,27 @@
     "vouchers": [
         {
             "date":"11-2023",
+            "description":"20% off any purchase within our store!",
             "image":"https://raw.githubusercontent.com/JackMarsia/SallySweetsVouchers/main/images/11-23.jpg"
         },
         {
             "date":"12-2023",
+            "description":"10% off any boiled sweets products at our store!",
             "image":"https://raw.githubusercontent.com/JackMarsia/SallySweetsVouchers/main/images/12-23.jpg"
         },
         {
             "date":"01-2024",
+            "description":"15% off any chocolate candy products in our store!",
             "image":"https://raw.githubusercontent.com/JackMarsia/SallySweetsVouchers/main/images/01-24.jpg"
         },
         {
             "date":"02-2024",
+            "description":"10% off any cake candy products in our store!",
             "image":"https://raw.githubusercontent.com/JackMarsia/SallySweetsVouchers/main/images/02-24.jpg"
         },
         {
             "date":"03-2024",
+            "description":"Buy any product £5 or less and get a second completely free at our store!",
             "image":"https://raw.githubusercontent.com/JackMarsia/SallySweetsVouchers/main/images/03-24.jpg"
         }
     ]
